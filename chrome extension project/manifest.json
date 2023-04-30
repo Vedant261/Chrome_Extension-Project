@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Random Joke Generator",
+    "version": "1.0",
+    "description": "Generates a random joke",
+    
+    "browser_action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
